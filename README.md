@@ -1,4 +1,4 @@
-### Hi👋 I am Lakshita Joshi
+### **Hi👋 I am Lakshita Joshi**
 ### I am a python developer and I am very passionate about Data Science
 
 <!--
