@@ -42,7 +42,7 @@
 ## 📈 My Contribution Graph
 
 <br/>
-<a href="https://github.com/Lakshita02/github-readme-activity-graph"><img alt="Lakshita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakshita02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Lakshita02/github-readme-activity-graph"><img alt="Lakshita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakshita02&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
