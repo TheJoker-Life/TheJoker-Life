@@ -64,7 +64,7 @@
 <a href="https://github.com/mayurpai/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mayurpai">
 </a>
-<a href="https://github.com/Lakshita02?tab=followers"><img src="https://img.shields.io/github/followers/vivek563?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Lakshita02?tab=followers"><img src="https://img.shields.io/github/followers/Lakshita02?label=Followers&style=social" alt="GitHub Badge"></a>
  
 
 <!--
