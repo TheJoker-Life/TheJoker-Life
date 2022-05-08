@@ -1,5 +1,8 @@
-# **Hi👋 I am Lakshita Joshi**
+# Hi👋 I am Lakshita Joshi
 ### I am a python developer and I am very passionate about Data Science
+#### Currently I am a student pursuing my Bachelor's Degree(BCA) from J. C. Bose University of Science and Technology,YMCA
+## About Me
+
 
 <!--
 **Lakshita02/Lakshita02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
