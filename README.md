@@ -1,9 +1,11 @@
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Lakshita Joshi</h1>
 
+
+<h3 align="center">👩‍🎓 Currently I am a student pursuing my Bachelor's Degree(BCA) from J. C. Bose University of Science and Technology,YMCA</h3>
+
 ### I am a python developer and I am very passionate about Data Science
 
 
-<h3 align="center">👩‍🎓 Currently I am a student pursuing my Bachelor's Degree(BCA) from J. C. Bose University of Science and Technology,YMCA</h3>
 
 ## 😄 About Me
 * 💻 At the moment, I am polishing my skills in **Pyhton** and learning **Data Science**
