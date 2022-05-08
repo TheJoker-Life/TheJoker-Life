@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋 I am Lakshita Joshi
+### I am a python developer and I am very passionate about Data Science
 
 <!--
 **Lakshita02/Lakshita02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
