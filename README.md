@@ -2,6 +2,10 @@
 ### I am a python developer and I am very passionate about Data Science
 #### Currently I am a student pursuing my Bachelor's Degree(BCA) from J. C. Bose University of Science and Technology,YMCA
 ## About Me
+* At the moment, I am polishing my skills in pyhton and learning Data Science
+* Kaggle and making projects are my upcoming goals
+* I
+* 📫 To get in touch with me, e-mail me at jlakshita2002@gmail.com 
 
 
 <!--
