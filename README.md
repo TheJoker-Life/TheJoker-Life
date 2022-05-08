@@ -25,6 +25,7 @@
 
   <br/>
     <a href="https://github.com/Lakshita02/github-readme-stats"><img alt="Lakshita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lakshita02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
   <a href="https://github.com/Lakshita02/github-readme-stats"><img alt="Lakshita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshita02&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
