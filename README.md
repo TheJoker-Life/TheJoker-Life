@@ -8,15 +8,6 @@
 * 💻 At the moment, I am polishing my skills in **Pyhton** and learning **Data Science**
 * 🎯 Kaggle and making projects are my upcoming goals
 * 📱 I also like to explore about **Android Development**
-* 📫 To get in touch with me, [jlakshita2002@gmail.com](https://mailto:jlakshita2002@gmail.com) | [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
-
-[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
-[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
-
-[1]: https://twitter.com/lakshita02_
-[2]: https://www.linkedin.com/in/lakshita-joshi-299811208/
-
-
 
 ## 💻My Technical Skills
 
@@ -60,10 +51,13 @@
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/lakshita-joshi-299811208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jlakshita2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://twitter.com/lakshita02_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+* 📫 To get in touch with me, [jlakshita2002@gmail.com](https://mailto:jlakshita2002@gmail.com) | [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
+[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
+[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
+
+[1]: https://twitter.com/lakshita02_
+[2]: https://www.linkedin.com/in/lakshita-joshi-299811208/
 
 </div>
 
