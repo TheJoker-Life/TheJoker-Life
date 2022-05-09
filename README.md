@@ -10,6 +10,13 @@
 * 📱 I also like to explore about **Android Development**
 * 📫 To get in touch with me, [jlakshita2002@gmail.com](https://mailto:jlakshita2002@gmail.com) | [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
+[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
+[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
+
+[1]: https://twitter.com/lakshita02_
+[2]: https://www.linkedin.com/in/lakshita-joshi-299811208/
+
+
 
 ## 💻My Technical Skills
 
