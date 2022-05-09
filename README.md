@@ -14,7 +14,7 @@
 <p align="center">
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
- <img alt="Python" src="https://www.google.com/search?q=python+logo+png&rlz=1C1UEAD_enIN955IN955&sxsrf=ALiCzsZaUQtlF4PlLNAjmoS2LuiOaGDe5g:1652118075785&tbm=isch&source=iu&ictx=1&vet=1&fir=pCDxQjgV-aSV0M%252CX6b2dkbhySknGM%252C_%253BwJ_8EiJgjRaS-M%252CjGXJl4w5MRn50M%252C_%253B2qL2RwiQsn2XCM%252CWUulQbU28UK5fM%252C_%253B1sCDfdWuwbFAoM%252CtGtvUufe6NDVNM%252C_%253Bgf6oB79PMt6laM%252CzJK-4Hu6CdYBHM%252C_%253B4IVeLR2FkggwJM%252COfp8_mDiHZc5cM%252C_%253BxzLJCxrIDCwZ3M%252CQyjSQA-nSVzWkM%252C_%253BWO2c1qbha18IhM%252CoQtUwEwlHaOlTM%252C_%253BbuymR5tVFZtHZM%252CN1XKdG6sV9nFVM%252C_%253BMSHx2p6HyfyWgM%252CEXVw2wXU7HiJAM%252C_%253B0-lAWpuQBjsPGM%252ChOYACwlI9K54CM%252C_%253BtloF8v6nCA9EAM%252CZIk6oEy_LSc-sM%252C_%253BQlfQUWUjao-cqM%252CZIk6oEy_LSc-sM%252C_%253BKk-yzaNLYnRYvM%252COfp8_mDiHZc5cM%252C_%253BlOoSx3Fv-IgOyM%252CrI1_9b4JPGpQGM%252C_&usg=AI4_-kR8ugT8r2QV3nlhpHYT2XUnqYWuBw&sa=X&ved=2ahUKEwjFx6K4-9L3AhW6SGwGHfITCEsQ9QF6BAgCEAE#imgrc=pCDxQjgV-aSV0M" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
  </p>
 
 
