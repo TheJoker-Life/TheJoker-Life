@@ -8,7 +8,7 @@
 * 💻 At the moment, I am polishing my skills in **Pyhton** and learning **Data Science**
 * 🎯 Kaggle and making projects are my upcoming goals
 * 📱 I also like to explore about **Android Development**
-* 📫 To get in touch with me, e-mail me at jlakshita2002@gmail.com 
+* 📫 To get in touch with me, [jlakshita2002@gmail.com](https://mailto:jlakshita2002@gmail.com) | [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 
 ## 💻My Technical Skills
