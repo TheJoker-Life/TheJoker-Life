@@ -41,7 +41,7 @@
 ## 📈 My Contribution Graph
 
 <br/>
-<a href="https://github.com/TheJoker-Life/github-readme-activity-graph"><img alt="Lakshita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheJoker-Life&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/TheJoker-Life/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheJoker-Life&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -65,7 +65,9 @@
 <a href="https://github.com/mayurpai/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mayurpai">
 </a>
-<a href="https://github.com/Lakshita02?tab=followers"><img src="https://img.shields.io/github/followers/Lakshita02?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TheJoker-Life
+2?tab=followers"><img src="https://img.shields.io/github/followers/TheJoker-Life
+?label=Followers&style=social" alt="GitHub Badge"></a>
  
 
 <!--
