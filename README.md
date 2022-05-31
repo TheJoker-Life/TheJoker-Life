@@ -39,7 +39,7 @@
 ## 📈 My Contribution Graph
 
 <br/>
-<a href="https://github.com/TheJoker-Life/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=TheJoker-Life&count_private=true&bg_color=0D1117&color=5BCDEC&line=673bbf&point=FFFFFF&hide_border=true"  alt="Lakshita"/></a>
+<a href="https://github.com/TheJoker-Life/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=TheJoker-Life&count_private=true&bg_color=0D1117&color=5BCDEC&line=9869f5&point=FFFFFF&hide_border=true"  alt="Lakshita"/></a>
 
 <br/>
 <br/>
