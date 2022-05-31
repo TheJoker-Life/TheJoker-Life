@@ -23,7 +23,8 @@
 
   <br/>
     <a href=""><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheJoker-Life&show_icons=true&count_private=true&&theme=cobalt&hide_border=true&bg_color=0D1117" /></a>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoker-Life)](https://github.com/TheJoker-Life/github-readme-stats)
+      
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoker-Life&layout=compact)](https://github.com/TheJoker-Life/github-readme-stats)
   
   <br/>
   <div align="center">
