@@ -22,7 +22,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/TheJoker-Life/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheJoker-Life&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/TheJoker-Life/github-readme-stats"><img alt="itHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheJoker-Life&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
   <a href="https://github.com/TheJoker-Life/github-readme-stats"><img alt="Lakshita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoker-Life&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -30,7 +30,7 @@
   
   <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheJoker-Life&theme=react" alt="Lakshita"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheJoker-Life&theme=react"/></p>
   </div>
 <br/>
 
