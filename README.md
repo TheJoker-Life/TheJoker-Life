@@ -22,11 +22,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/TheJoker-Life/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheJoker-Life&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheJoker-Life&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-  <a href="https://github.com/
-TheJoker-Life/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-TheJoker-Life&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[!["My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=
+TheJoker-Life&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TheJoker-Life/github-readme-stats)
   <br/>
   
   
