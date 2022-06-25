@@ -63,9 +63,9 @@
 <a href="https://github.com/mayurpai/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mayurpai">
 </a>
-<a href="https://github.com/TheJoker-Life
+<!-- <a href="https://github.com/TheJoker-Life
 2?tab=followers"><img src="https://img.shields.io/github/followers/TheJoker-Life
-?label=Followers&style=social" alt="GitHub Badge"></a>
+?label=Followers&style=social" alt="GitHub Badge"></a> -->
  
 
 <!--
